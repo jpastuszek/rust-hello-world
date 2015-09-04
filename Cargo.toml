@@ -1,0 +1,9 @@
+[package]
+name = "hello-world"
+version = "0.1.0"
+authors = ["Jakub Pastuszek <jpastuszek@gmail.com>"]
+
+[dependencies]
+clap = "~1.3"
+regex = "~0.1"
+
